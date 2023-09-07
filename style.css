@@ -77,6 +77,9 @@ nav {
   .details__section__desc{
     font-size: 2.7rem !important;
   }
+  .details__section__alter {
+    margin-top: 30px !important;
+  }
 }
 
 .details__section {
