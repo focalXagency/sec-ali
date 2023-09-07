@@ -74,7 +74,9 @@ nav {
     backdrop-filter: blur(4px);
     margin-bottom: 110px;
   }
-  
+  .details__section__desc{
+    font-size: 2.7rem !important;
+  }
 }
 
 .details__section {
@@ -147,7 +149,7 @@ nav {
     border-radius: 16px;
   }
   .details__section {
-    width: 100%;
+    width: 90%;
   }
 
   .logo {
